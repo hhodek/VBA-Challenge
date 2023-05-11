@@ -3,7 +3,7 @@
 # Description
 For this challenge we had to use VBA scripting to analyze generated stock market data. I did that in three different macros which are labeled as Part 1, Part 2, and Part 3. 
 
-When part 1 runs, the macro will loop through all the data entries on each year sheet and it will calculate the yearly change, percent change for each ticker.
+When part 1 runs, the macro will loop through all the data entries on each year sheet and it will calculate the yearly change, percent change, and total stock volume for each ticker.
 
 In part 2, the macro will use the min/max and match functions to return the values and tickers for the greatest % increase and greatest percent decrease. 
 
